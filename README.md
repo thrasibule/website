@@ -12,7 +12,7 @@ this repository, you also need to initiate the submodule with:
      git submodule init
      git submodule update 
 
-You will also need to download Jelix 1.3 [here]("http://jelix.org/articles/fr/telechargement/stable/1.3"). The
+You will also need to download Jelix 1.3 [here](http://jelix.org/articles/fr/telechargement/stable/1.3). The
 lib directory should be put in the main directory (next to wsexport),
 you also have to create temp/wsexport and make it writable by your web
 server.
