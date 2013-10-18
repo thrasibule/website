@@ -12,13 +12,13 @@ this repository, you also need to initiate the submodule with:
      git submodule init
      git submodule update 
 
-You will also need to download Jelix 1.3 <a href="http://jelix.org/articles/fr/telechargement/stable/1.3">here</a>. The
+You will also need to download Jelix 1.3 [here]("http://jelix.org/articles/fr/telechargement/stable/1.3"). The
 lib directory should be put in the main directory (next to wsexport),
 you also have to create temp/wsexport and make it writable by your web
 server.
 
 The database configuration is located in wsexport/var/config/profiles.ini.php
-The database schema can be find in wsexport/modules/wsexport/install/sql/install.sql
+The database schema can be found in wsexport/modules/wsexport/install/sql/install.sql
 
 Composition
 ===========
